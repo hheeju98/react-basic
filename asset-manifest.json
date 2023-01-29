@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cash_book/static/css/main.d7dabc8b.css",
+    "main.js": "/react-cash_book/static/js/main.fea2abd9.js",
+    "static/js/787.2726c4d0.chunk.js": "/react-cash_book/static/js/787.2726c4d0.chunk.js",
+    "index.html": "/react-cash_book/index.html",
+    "main.d7dabc8b.css.map": "/react-cash_book/static/css/main.d7dabc8b.css.map",
+    "main.fea2abd9.js.map": "/react-cash_book/static/js/main.fea2abd9.js.map",
+    "787.2726c4d0.chunk.js.map": "/react-cash_book/static/js/787.2726c4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7dabc8b.css",
+    "static/js/main.fea2abd9.js"
+  ]
+}
